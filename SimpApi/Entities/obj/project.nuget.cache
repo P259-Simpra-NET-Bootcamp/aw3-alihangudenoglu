@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kus0VjmDReLVLlTckkUfKQUk1+nQrA1VcS+HTTaS81NxqrLexfETOas6r2oP1SxHGvZsJovBH65HZHKbHs346g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alihan\\Desktop\\kodlamalar\\SimpraAssing\\week3\\aw3-alihangudenoglu\\SimpApi\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alihan\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\Alihan\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
